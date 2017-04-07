@@ -1,0 +1,2 @@
+C:\Users\Amorim Wesley\documents\visual studio 2015\Projects\FavoritosNetflix\FavoritosNetflix\FavoritosNetflix.WinPhone\FavoritosNetflix.WinPhone.csproj;neutral
+C:\Users\Amorim Wesley\documents\visual studio 2015\Projects\FavoritosNetflix\FavoritosNetflix\FavoritosNetflix\FavoritosNetflix.csproj;neutral
